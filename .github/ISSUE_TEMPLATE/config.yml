@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & support
+    url: https://viprasol.com
+    about: For general questions, commercial support, or custom builds, contact Viprasol Tech.
+  - name: ✉️ Email support
+    url: mailto:support@viprasol.com
+    about: Reach the Viprasol Tech team directly by email.
