@@ -92,6 +92,7 @@ from collections.abc import Sequence
 from discord_ai_bot.llm import LLM
 from discord_ai_bot.memory import Message
 
+
 class MyLLM(LLM):
     name = "my-provider"
 
